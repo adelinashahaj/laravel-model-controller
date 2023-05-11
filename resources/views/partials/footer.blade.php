@@ -1,3 +1,3 @@
 <footer>
-    <p>Made with love by Boolean</p>
+    <p class="text-center">Made with &#10084; by Boolean! </p>
 </footer>
